@@ -1,0 +1,1 @@
+Ejercicios de Linux y Python\n\nEste repositorio contiene ejemplos prácticos realizados en Linux:\n\n1. Creación y combinación de archivos de texto.\n2. Compresión y descompresión de archivos .tar.gz.\n3. Uso de `awk` para procesar datos en un archivo CSV.\n4. Generación de un archivo con Python.\n5. Subida de archivos a GitHub
