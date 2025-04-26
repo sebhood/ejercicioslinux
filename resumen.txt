@@ -1,0 +1,3 @@
+Este es el contenido del archivo1.
+ESte es el contenido del archivo2.
+Este es el contenido del archivo3
